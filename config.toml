@@ -1,0 +1,27 @@
+baseURL = "https://artem.usov.uk"
+languageCode = "en-gb"
+title = "Artem Usov"
+theme = "PaperMod"
+
+[params.profileMode]
+enabled = true
+subtitle = "University of Glasgow - Msci Computer Science"
+imageURL = "/me.jpg"
+imageWidth = 200
+imageHeight = 200
+
+[[params.profileMode.buttons]]
+name = "Publications"
+url = "/publications"
+
+[[params.profileMode.buttons]]
+name = "Resume"
+url = "/Resume.pdf"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/a-usov"
+
+[[params.socialIcons]]
+name = "email"
+url = "mailto:artem.o.u@gmail.com"
